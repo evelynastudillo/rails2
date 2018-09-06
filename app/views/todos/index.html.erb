@@ -5,4 +5,6 @@
 <% @todos.each do |todo| %>
 <%= image_tag todo.photo %>
 <%= todo.name %>
+<%= link_to "listo", todo_completedtasks_path(todo), class: 'btn btn-success', method: :post %>
+
   <% end %>
