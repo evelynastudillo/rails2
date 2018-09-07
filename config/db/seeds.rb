@@ -5,46 +5,47 @@
 #
 #  movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+Todo.destroy_all
 
 Todo.create(
   name: 'Salir Temprano de la pega',
-  photo: "https://pbs.twimg.com/media/CHNqjisWkAAsUyG.png"
+  photo: "http://memeschistosos.net/wp-content/uploads/2015/07/vacacionesmemes20.jpg"
 )
 
 Todo.create(
   name: 'Hacer Pebre',
-  photo: "http://www.midiariodecocina.com/wp-content/uploads/2016/07/Pebre-with-avocado01.jpg"
+  photo: "https://img-global.cpcdn.com/002_recipes/be651c761d0a26fa/400x400cq70/photo.jpg"
 )
 
 Todo.create(
   name: 'Comer Asado',
-  photo: "http://www.theclinic.cl/wp-content/uploads/2012/09/asado-chileno.jpg"
+  photo: "http://www.radiozero.cl/static/2016/06/asado-400x400.jpg"
 )
 
 Todo.create(
   name: 'Comer Empanada',
-  photo: "http://assets.kraftfoods.com/recipe_images/opendeploy/76266_640x428.jpg"
+  photo: "https://www.meals.com/ImagesRecipes/140513lrg.jpg"
 )
 
 
 Todo.create(
   name: 'Ir a una Fonda',
-  photo: "https://cooperativa.cl/noticias/site/artic/20120914/imag/foto_0000000720120914133547.jpg"
+  photo: "http://especiales2.cooperativa.cl/temas/site/artic/20140905/imag/foto_0000000320140905181412.jpg"
 )
 Todo.create(
   name: 'Tomar Terremotos (muchos)',
-  photo: "http://www.lasegunda.com/especiales/especial_18/img/terremoto.jpg"
+  photo: "http://especiales2.cooperativa.cl/temas/site/artic/20140905/imag/foto_0000000320140905181412.jpg"
 )
 Todo.create(
   name: 'Bailar cueca (poco)',
-  photo: "http://cncmedios.cl/plus/wp-content/uploads/sites/3/2016/08/cueca.jpg"
+  photo: "http://www.estoy.cl/assets/uploads/files/ba797-talleres_cuecas_principal.gif"
 )
 
 Todo.create(
   name: 'Encumbrar Volantines',
-  photo: "http://img.soy-chile.cl/Fotos/2014/08/28/file_20140828154251.jpg"
+  photo: "https://pbs.twimg.com/profile_images/3746941368/315e362e99c8f1433911cb3a8d9235aa_400x400.jpeg"
 )
 Todo.create(
   name: 'Dieta Post 18',
-  photo: "http://d3f4nerl4dh38d.cloudfront.net/sites/elnaveghable.cl/files/imagecache/380x285/imagen_noticia/dieta_post_18.jpg"
+  photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzhN__qK1pFkSES5WtbDtW4jQPC0XUkPydt2wlxhnsabf1UBCM"
 )
